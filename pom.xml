@@ -14,6 +14,7 @@
         <module>gateway-by-code</module>
         <module>gateway-by-loadbalance</module>
         <module>gateway-nacos-config</module>
+        <module>gateway-dynamic-by-nacos</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
