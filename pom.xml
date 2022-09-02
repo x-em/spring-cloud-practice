@@ -11,6 +11,9 @@
         <module>hello-gateway</module>
         <module>common</module>
         <module>provider-hello</module>
+        <module>gateway-by-code</module>
+        <module>gateway-by-loadbalance</module>
+        <module>gateway-nacos-config</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
