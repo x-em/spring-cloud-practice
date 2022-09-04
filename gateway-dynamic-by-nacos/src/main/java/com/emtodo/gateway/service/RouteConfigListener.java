@@ -23,6 +23,9 @@ import java.util.concurrent.Executor;
 @Slf4j
 public class RouteConfigListener {
 
+    /**
+     * 这是nacos上配置文件的名字
+     */
     private String dataId = "gateway-json-routes";
 
     private String group = "DEFAULT_GROUP";
